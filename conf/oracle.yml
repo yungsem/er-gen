@@ -1,0 +1,8 @@
+db:
+  type: oracle
+  host: 192.168.101.148
+  port: 1521
+  schema: ORCL
+  username: root
+  password: root
+

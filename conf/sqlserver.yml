@@ -1,0 +1,7 @@
+db:
+  type: sqlserver
+  host: localhost
+  port: 1433
+  schema: test
+  username: root
+  password: root

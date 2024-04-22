@@ -1,0 +1,8 @@
+db:
+  type: mysql
+  host: 101.35.235.214
+  port: 3306
+  schema: mom_mdm
+  username: root
+  password: admin123456
+
